@@ -1,1 +1,1 @@
-# create pong game with turtle module
+# Create pong game with turtle module
